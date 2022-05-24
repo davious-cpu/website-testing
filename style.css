@@ -8,17 +8,17 @@ body, html{
 }
 
 .pimg1{
-    background-image: url('../one1/img/city1.jpg');
+    background-image: url('img/city1.jpg');
     min-height: 100%;
 }
 
 .pimg2{
-    background-image: url('../one1/img/city2.jpg');
+    background-image: url('img/city2.jpg');
     min-height: 100%;
 }
 
 .pimg3{
-    background-image: url('../one1/img/city3.jpg');
+    background-image: url('img/city3.jpg');
     min-height: 100%;
 }
 
